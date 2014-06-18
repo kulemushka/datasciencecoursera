@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-My coursera repo
+My first real coursera repo.
